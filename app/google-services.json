@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107833758215",
+    "project_id": "pushnotification-278d1",
+    "storage_bucket": "pushnotification-278d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107833758215:android:95e2329472caab9b0550a2",
+        "android_client_info": {
+          "package_name": "topica.edu.vn.pushnotificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107833758215-9gpho1de0vvsuafd0jhqvo2vlevlvpn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "topica.edu.vn.pushnotificationfirebase",
+            "certificate_hash": "b02155cf0dce1b1ad80def0e940804ee292355db"
+          }
+        },
+        {
+          "client_id": "107833758215-793hatep76gtp40t4fj3fnfb91k7nll0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwDiF14YuqyWW5FCXJdVupeXNyBh25obs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107833758215-793hatep76gtp40t4fj3fnfb91k7nll0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
